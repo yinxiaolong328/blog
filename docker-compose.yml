@@ -1,10 +1,10 @@
 version: '2'
 services:
   blog:
-    container_name: yinxiaolong
+    container_name: blog
     build: .
     ports: 
-      - 83:4000
+      - 83:4000   # 映射端口， 83端口请自行修改为未被占用的端口
     volumes:
       - .:/usr/src/app:rw
       

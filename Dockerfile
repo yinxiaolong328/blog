@@ -8,4 +8,5 @@ WORKDIR /usr/src/app
 EXPOSE 4000 80
 CMD \
     npm install && \
-    hexo clean && hexo s
+    hexo clean && \
+    hexo s
