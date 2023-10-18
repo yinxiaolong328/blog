@@ -1,0 +1,10 @@
+version: '2'
+services:
+  blog:
+    container_name: yinxiaolong
+    build: .
+    ports: 
+      - 83:4000
+    volumes:
+      - .:/usr/src/app:rw
+      
