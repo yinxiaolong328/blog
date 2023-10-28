@@ -7,4 +7,5 @@ services:
       - 83:4000   # 映射端口， 83端口请自行修改为未被占用的端口
     volumes:
       - .:/usr/src/app:rw
-      
+    environment:
+      TZ: Asia/Shanghai
