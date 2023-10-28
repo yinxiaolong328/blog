@@ -4,6 +4,7 @@ wiki: delay #项目名
 date: 2023-10-18 21:00
 categories: [部署,docker]
 title: 开始之前
+cover: /asset/wiki/delay/cover.jpg
 ---
 
 ## 说明
