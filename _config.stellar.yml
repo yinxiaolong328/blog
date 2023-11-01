@@ -5,7 +5,7 @@ stellar:
   repo: 'https://github.com/xaoxuu/hexo-theme-stellar'
   cdn_css: # Use cdn links instead of /css/main.css
   cdn_js: # Use cdn links instead of /js/main.js
-
+  favicon: /asset/favicon.ico
 
 ######## head tags ########
 open_graph:
@@ -423,3 +423,4 @@ api_host:
   ghapi: https://api.github.com
   ghraw: https://raw.githubusercontent.com
   gist: https://gist.github.com
+

@@ -11,3 +11,17 @@ delay:
     large: 240px
   description: 基于hexo的docker部署
   comment_title: ''
+
+tools:
+  name: 想打瞌睡
+  title: 实用小工具分享
+  subtitle: '日常工作中发现的小工具'
+  tags: 小工具
+  cover: true
+  repo: allinurl/goaccess
+  logo:
+    src: /asset/wiki/delay/cover.jpg
+    small: 112px
+    large: 240px
+  description: 日常工作中发现的小工具
+  comment_title: ''
