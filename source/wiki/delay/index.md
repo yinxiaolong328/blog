@@ -8,7 +8,8 @@ cover: /asset/wiki/delay/cover.jpg
 ---
 
 ## 说明
-食用本文档前，请确保所用机器装有 `docker` 服务以及`docker-compose` 工具。以下命令用于检查服务是否存在（`linux`下）
+{% note color:red 食用本文档前，请确保所用机器装有 `docker` 服务以及`docker-compose` 工具。以下命令用于检查服务是否存在（`linux`下）%}
+
 ```bash
 docker -v
 ```

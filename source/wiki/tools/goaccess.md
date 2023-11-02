@@ -9,8 +9,9 @@ keywords: 访问日志,goaccess
 permalink: /wiki/tools/goaccess/
 cover: /asset/wiki/delay/cover.jpg
 ---
+{%link https://github.com/allinurl/goaccess  desc:true%} 
 
-goaccess是一个强大的访问日志分析工具，它可以帮助你分析、监控、并报告Web服务器的访问日志。
+{%note color:orange `goaccess`是一个强大的访问日志分析工具，它可以帮助你分析、监控、并报告Web服务器的访问日志。%}
 
 ## 1. 查看当前操作系统版本
 

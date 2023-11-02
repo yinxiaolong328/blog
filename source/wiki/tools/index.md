@@ -1,7 +1,7 @@
 ---
 layout: wiki #使用wiki公共模版
 wiki: tools #项目名
-date: 2023-11-01 21:00
+date: 2023-10-01 21:00
 categories: [小工具]
 title: 日常工作中发现的小工具
 cover: /asset/wiki/delay/cover.jpg

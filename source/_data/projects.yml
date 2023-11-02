@@ -18,9 +18,9 @@ tools:
   subtitle: '日常工作中发现的小工具'
   tags: 小工具
   cover: true
-  repo: allinurl/goaccess
+  # repo: allinurl/goaccess
   logo:
-    src: /asset/wiki/delay/cover.jpg
+    src: /asset/tools/ssh.jpg
     small: 112px
     large: 240px
   description: 日常工作中发现的小工具
